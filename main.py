@@ -1,7 +1,3 @@
-import math
-# Add any extra import statements you may need here
-
-
 class Node:
   def __init__(self, data):
     self.data = data
